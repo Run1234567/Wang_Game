@@ -1,0 +1,30 @@
+fs-stm32u575-total/fontcache.o: \
+  ..\touchgfx\generated\fonts\src\fontcache.cpp \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\cstring \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\__assert \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\__config \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\__verbose_abort \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\__availability \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\__type_traits\is_constant_evaluated.h \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\string.h \
+  D:\UV4\ARM\ARMCLANG\include\string.h \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\TextProvider.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Font.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Unicode.hpp \
+  D:\UV4\ARM\ARMCLANG\include\stdarg.h \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Types.hpp \
+  D:\UV4\ARM\ARMCLANG\include\assert.h \
+  D:\UV4\ARM\ARMCLANG\include\libcxx\stdint.h \
+  D:\UV4\ARM\ARMCLANG\include\stdint.h \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Config.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Utils.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Bitmap.hpp \
+  ..\touchgfx\generated\fonts\include\fonts\CachedFont.hpp \
+  ..\touchgfx\generated\fonts\include\fonts\FontCache.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\TypedText.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Texts.hpp \
+  ..\touchgfx\generated\fonts\include\fonts\ApplicationFontProvider.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\FontManager.hpp \
+  ..\touchgfx\generated\fonts\include\fonts\GeneratedFont.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\ConstFont.hpp \
+  ..\touchgfx\generated\texts\include\texts\TypedTextDatabase.hpp

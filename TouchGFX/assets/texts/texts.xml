@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.21.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="textAreaRoll" Alignment="Center" TypographyId="Chinese16">
+        <Translation Language="GB">&lt;VAL&gt;°</Translation>
+      </Text>
+      <Text Id="textAreaPitch" Alignment="Center" TypographyId="Chinese16">
+        <Translation Language="GB">&lt;VAL&gt;°</Translation>
+      </Text>
+      <Text Id="textAreaYaw" Alignment="Center" TypographyId="Chinese16">
+        <Translation Language="GB">&lt;VAL&gt;°</Translation>
+      </Text>
+      <Text Id="textStep" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;step&gt;</Translation>
+      </Text>
+      <Text Id="wifiLinkInfo" Alignment="Left" TypographyId="Chinese16">
+        <Translation Language="GB">&lt;LinkInfo&gt;</Translation>
+      </Text>
+      <Text Id="chipVref" Alignment="Left" TypographyId="Chinese20">
+        <Translation Language="GB">&lt;VAL&gt;.&lt;VAL&gt;V</Translation>
+      </Text>
+      <Text Id="chipVbat" Alignment="Left" TypographyId="Chinese20">
+        <Translation Language="GB">&lt;VAL&gt;.&lt;VAL&gt;V</Translation>
+      </Text>
+      <Text Id="chipTemp" Alignment="Left" TypographyId="Chinese20">
+        <Translation Language="GB">&lt;VAL&gt;℃</Translation>
+      </Text>
+      <Text Id="extSPOZ" Alignment="Left" TypographyId="Chinese20">
+        <Translation Language="GB">&lt;VAL&gt;%</Translation>
+      </Text>
+      <Text Id="extPulse" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;VAL&gt;</Translation>
+      </Text>
+      <Text Id="extHumidity" Alignment="Center" TypographyId="Chinese20">
+        <Translation Language="GB">湿度:&lt;VAL&gt;%</Translation>
+      </Text>
+      <Text Id="extTempInfo" Alignment="Center" TypographyId="Chinese20">
+        <Translation Language="GB">温度:&lt;VAL&gt;°</Translation>
+      </Text>
+      <Text Id="extTemp" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;VAL&gt;°</Translation>
+      </Text>
+      <Text Id="extLight" Alignment="Center" TypographyId="Chinese20">
+        <Translation Language="GB">光强:&lt;VAL&gt;lux</Translation>
+      </Text>
+      <Text Id="systemYear" Alignment="Center" TypographyId="Chinese20">
+        <Translation Language="GB">&lt;Year&gt;年</Translation>
+      </Text>
+      <Text Id="SystemDate" Alignment="Center" TypographyId="Chinese20">
+        <Translation Language="GB">&lt;Month&gt;月&lt;Date&gt;日</Translation>
+      </Text>
+      <Text Id="SystemWeek" Alignment="Center" TypographyId="Chinese20">
+        <Translation Language="GB">W:&lt;WeekDay&gt;</Translation>
+      </Text>
+      <Text Id="systemClock" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;Hours&gt;:&lt;Minutes&gt;</Translation>
+      </Text>
+      <Text Id="ClockSecond" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;second&gt;</Translation>
+      </Text>
+      <Text Id="extStep" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;VAL&gt;</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_QQHK" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_143I" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_4AXB" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">GAMEOVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_1GSY" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">ZhangWangKuaiTiao</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMHW" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">RESTART</Translation>
+      </Text>
+      <Text Id="__SingleUse_O2W2" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">game over</Translation>
+      </Text>
+      <Text Id="__SingleUse_KJCA" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">WangBreakKout</Translation>
+      </Text>
+      <Text Id="__SingleUse_NGN6" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">ZhangWangKuaiFei</Translation>
+      </Text>
+      <Text Id="__SingleUse_PFOY" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">DaZhangWang</Translation>
+      </Text>
+      <Text Id="__SingleUse_ADVT" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_W1PS" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_78LV" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Restart</Translation>
+      </Text>
+      <Text Id="__SingleUse_AXCY" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_886R" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Back</Translation>
+      </Text>
+      <Text Id="__SingleUse_CPI4" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">DaZhangWang DeFeng &lt;d&gt; </Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789+- :()=." WidgetWildcardCharacters="0123456789." WildcardCharacterRanges="0-9,A-Z,a-z" />
+    <Typography Id="Large" Font="cambriaz.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789" WildcardCharacterRanges="!-~" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789+- :()=" WidgetWildcardCharacters="0123456789." WildcardCharacterRanges="0-9,A-Z,a-z" />
+    <Typography Id="Chinese20" Font="simkai.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789+- :()=" WildcardCharacterRanges="0-9,A-Z,a-z" />
+    <Typography Id="Chinese16" Font="simkai.ttf" Size="16" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789+- :()=/." WildcardCharacterRanges="0-9,A-Z,a-z" />
+    <Typography Id="Chinese26" Font="simkai.ttf" Size="26" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="健康监测姿态感知环境信息芯片信息外部控制电池电量无线连接" />
+  </Typographies>
+</TextDatabase>
